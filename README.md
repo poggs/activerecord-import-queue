@@ -1,4 +1,5 @@
 activerecord-import-queue
 =========================
 
-A simple queue to import ActiveRecords objects en-masse using activerecord-import
+A simple queue to import ActiveRecords objects en-masse using activerecord-import.
+
